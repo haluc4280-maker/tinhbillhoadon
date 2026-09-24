@@ -25,11 +25,14 @@ menu = {
         "Coca Cola": 20000,
         "Trà Đào Cam Sả": 35000,
         "Cà Phê Sữa": 25000,
-        "Nước Suối": 10000,
+        "Nước Suối thượng hạng": 1000000,
         "Sinh tố Bơ": 45000,
         "Nước ép cam": 40000,
         "Mojito chanh dây": 55000,
         "Bia Heineken": 30000,
+        "Nước ép lưu": 45000,
+        "Nước ép dâu mix dưa gang": 80000,
+        "Nước rau má mix trà sữa": 100000,
     },
 }
 
